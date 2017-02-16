@@ -1,0 +1,4 @@
+LOCAL:EN CONSOL
+git init:Inicializar el git
+git add .:Agregar el contenido o los cambios
+git commit -m "descripcion breve de los cambios"
